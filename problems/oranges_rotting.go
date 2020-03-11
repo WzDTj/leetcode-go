@@ -1,3 +1,8 @@
+/**
+ * 994. 腐烂的橘子
+ * https://leetcode-cn.com/problems/rotting-oranges/
+ **/
+
 package problems
 
 func OrangesRotting(grid [][]int) int {
